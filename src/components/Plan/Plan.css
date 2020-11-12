@@ -1,0 +1,59 @@
+
+.plan__list{
+    /* width: 100%; */
+    /* display: flex; */
+    /* position: relative;
+    margin: 1rem auto; */
+    /* justify-content: space-around; */
+
+}
+.plan__item{
+    /* margin: 0 ; */
+    /* max-width: 80%;
+    background: rgb(32, 32, 32);
+    padding: 2rem;
+    margin: 2rem auto;
+    border-radius: 10px;
+    border: 2px solid #fff;
+    color: rgb(212, 203, 203); */
+
+}
+.plan_header{
+    /* margin: 1rem 1.6rem;
+    text-align: center; */
+}
+.plan__item .plan_header h2{
+    /* font-size: 38px;
+    font-family: "Roboto";
+    font-style: oblique;
+    font-weight: 800;
+    overflow-wrap: break-word;
+    letter-spacing: 2px; */
+}
+
+.plan__details{
+    /* margin: 1rem 0; */
+}
+.plan__details ul{
+    /* width: 50%;
+    margin: 0 auto;
+    font-family: 'Roboto';
+    letter-spacing: 1.5px;
+    font-weight: 500;
+    text-align: center; */
+}
+.plan__details li{
+    /* margin: 0.5rem 0; */
+}
+.plan__price{
+    /* width: 100%;
+    margin: 2rem auto 1rem auto; */
+    /* position: relative; */
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+.plan__price Button{
+    /* font-size: 24px;
+    border-radius: 20px; */
+}

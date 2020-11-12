@@ -1,0 +1,28 @@
+.slider-div{
+    /* margin-top: 4rem; */
+}
+
+.slider__header{
+    /* display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-right: 1rem;
+    margin-top: 2rem; */
+}
+
+.slider__link .link-btn{
+    /* color: #eee;
+    padding: 0.75rem 2rem;
+    font-size: 24px;
+    text-decoration: none;
+    font-weight: 600;
+    font-family: 'Roboto';
+    letter-spacing: 2px;
+    background: #b40303;
+    transition: all 0.5s ease;
+    border: transparent;
+    border-radius: 10px; */
+}
+.slider__link .link-btn:hover{
+    /* background: #8b0606; */
+}

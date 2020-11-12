@@ -1,0 +1,41 @@
+ .banner{
+    /* display: flex;
+    position: relative;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 80vh; */
+}
+ .banner .get-started{
+    /* margin: 3rem 0; */
+}
+ .banner .get-started .get-started-btn{
+    /* padding: 1rem 2rem;
+    background-color: rgba(23, 23, 24, 0.719);
+    border: none;
+    cursor: pointer;
+    font-size: 8px;
+    color: #fff;
+    outline-color: blue;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    text-decoration: none;
+    transition: all 0.3s ease; */
+}
+ .banner .get-started .get-started-btn:hover{
+    /* background-color: transparent;
+    border: 1px solid rgb(255, 255, 255); */
+}
+
+ .slider-div{
+    /* display: flex;
+    position: relative;
+    flex-direction: column;
+    width: 100%;
+    height: 600px; */
+}
+ .slider-div .slider__header{
+    /* padding: 0 6rem;
+    color: #FFF; */
+}
